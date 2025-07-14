@@ -2,7 +2,7 @@
 
 This project presents a machine learning-driven clinical decision support tool designed to predict the presence and severity of pediatric appendicitis. By using structured clinical, laboratory, and ultrasound-derived features, it provides rapid and accurate predictions to aid healthcare professionals in diagnosis and treatment planning.
 
-<img src="docs/assets/poster.png" width="800"/>
+<img src="docs/assets/poster.png" width="900"/>
 
 ---
 
@@ -16,7 +16,7 @@ This project presents a machine learning-driven clinical decision support tool d
 
 ## Dataset
 
-- **Regensburg Pediatric Appendicitis Dataset** (782 patients aged 0-18).
+- [Regensburg Pediatric Appendicitis](https://archive.ics.uci.edu/dataset/938/regensburg+pediatric+appendicitis) (782 patients aged 0-18).
 - **Features Include:**
   - Demographics: Age, Sex, BMI
   - Clinical Scores: Alvarado Score, Pediatric Appendicitis Score
@@ -70,11 +70,17 @@ This project presents a machine learning-driven clinical decision support tool d
 
 XGBoost selected for deployment due to stable performance and efficiency.
 
+<img src="docs/assets/poster2.png" width="800"/>
+<img src="docs/assets/f1.png" width="400"/>
+<img src="docs/assets/pre_rec.png" width="400"/>
+
 ---
 
 ## Web Application
 
 An interactive web application was developed using **Gradio**. Users can input patient-specific clinical, laboratory, and imaging data to obtain real-time predictions of appendicitis diagnosis and severity.
+
+<img src="docs/assets/app.png" width="400"/>
 
 ---
 
