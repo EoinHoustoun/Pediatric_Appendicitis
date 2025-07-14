@@ -70,9 +70,7 @@ This project presents a machine learning-driven clinical decision support tool d
 
 XGBoost selected for deployment due to stable performance and efficiency.
 
-<img src="docs/assets/poster2.png" width="800"/>
-<img src="docs/assets/f1.png" width="400"/>
-<img src="docs/assets/pre_rec.png" width="400"/>
+<img src="docs/assets/poster2.png" width="900"/>
 
 ---
 
@@ -80,7 +78,7 @@ XGBoost selected for deployment due to stable performance and efficiency.
 
 An interactive web application was developed using **Gradio**. Users can input patient-specific clinical, laboratory, and imaging data to obtain real-time predictions of appendicitis diagnosis and severity.
 
-<img src="docs/assets/app.png" width="400"/>
+<img src="docs/assets/app.png" width="800"/>
 
 ---
 
