@@ -1,6 +1,8 @@
 # Predicting Pediatric Appendicitis and Severity Using Machine Learning
 
-This project presents a machine learning-driven clinical decision support tool designed to predict the presence and severity of pediatric appendicitis. By leveraging structured clinical, laboratory, and ultrasound-derived features, it provides rapid and accurate predictions to aid healthcare professionals in diagnosis and treatment planning.
+This project presents a machine learning-driven clinical decision support tool designed to predict the presence and severity of pediatric appendicitis. By using structured clinical, laboratory, and ultrasound-derived features, it provides rapid and accurate predictions to aid healthcare professionals in diagnosis and treatment planning.
+
+<img src="docs/assets/poster.png" width="800"/>
 
 ---
 
