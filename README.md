@@ -48,7 +48,7 @@ ML system for classifying pediatric appendicitis diagnosis and severity from cli
 | Task | Best Model | Accuracy | F1-Score |
 |---|---|---|---|
 | Appendicitis Detection | **XGBoost** | **96%** | **95%** |
-| Severity Classification | **MLP (PyTorch)** | **90%** | — |
+| Severity Classification | **MLP (PyTorch)** | **90%** | **88%** |
 
 - SHAP analysis identified WBC count, CRP level, and ultrasound findings as the strongest predictors
 - Monte Carlo CV (200 iterations) confirmed results are robust and not due to favourable data splits
